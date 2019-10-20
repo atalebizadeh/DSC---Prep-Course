@@ -1,4 +1,2 @@
 # SpringBoard
-Testing a few codes
-
-I've decided to become a Data Scientist and here I will be uploading some examples of my codes in order to help me get better.
+All the mini projects here are for my SpringBoard Data Science Prep Course.
